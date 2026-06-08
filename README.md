@@ -1,2 +1,3 @@
-# ferrx-api
-ScrumDev AI backend (ferrx-api)
+# TPL Salud Cita Backend
+
+Este es el backend del sistema de gestión de citas médicas para la clínica.
